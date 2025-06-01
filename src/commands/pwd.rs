@@ -1,6 +1,3 @@
-pub mod cd;
-pub mod ls;
-pub mod clear;
-pub mod echo;
-pub mod pwd;
-pub mod help;
+pub fn print_working_directory(_args: Vec<&str>) {
+    println!("Command not implemented yet.");
+}

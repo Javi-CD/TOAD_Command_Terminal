@@ -28,7 +28,7 @@ cargo run
 
 ```
 Toad> pwd
-/home/user/projects/terminal_simulada
+/home/user/WorkSpace/terminal_simulada
 
 Toad> echo Hello Rust!
 Hello Rust!

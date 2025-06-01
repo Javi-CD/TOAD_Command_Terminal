@@ -34,7 +34,10 @@ fn main() {
                 println!("Exiting Toad terminal...");
                 break;
             }
-            _ => println!("Unknown command: {}. Type 'help' for a list of available commands.", command),
+            _ => println!(
+                "Unknown command: {}. Type 'help' for a list of available commands.",
+                command
+            ),
         }
     }
 }

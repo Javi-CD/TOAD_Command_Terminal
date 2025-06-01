@@ -1,8 +1,5 @@
-
-
 // Print the list of avilable commands.
 pub fn display_help(_args: Vec<&str>) {
-
     println!("Available commands:");
     println!("  cd <path>    - Change current directory");
     println!("  ls           - List contents of the current directory");

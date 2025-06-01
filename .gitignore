@@ -1,0 +1,21 @@
+
+# Cargo-related
+/target/
+**/*.rs.bk
+
+# Backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# IDEs and editors
+.vscode/
+*.code-workspace
+
+# Logs and temp files
+*.log
+
+# OS generated files
+ehthumbs.db
+Icon?

@@ -30,6 +30,7 @@ fn main() {
             "echo" => commands::echo::echo(args.clone()),
             "pwd" => commands::pwd::print_working_directory(args.clone()),
             "help" => commands::help::display_help(args.clone()),
+            "version" => commands::version::execute(args.clone()),
             "exit" => {
                 println!("Exiting Toad terminal...");
                 break;

@@ -36,7 +36,7 @@ Hello Rust!
 Toad> help
 ```
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 src/
@@ -51,7 +51,7 @@ src/
     └── help.rs
 ```
 
-## 🧠 Educational Goal
+## Educational Goal
 
 This project is designed to help you:
 - Learn how to work with Rust modules
